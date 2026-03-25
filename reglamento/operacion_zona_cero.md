@@ -2,6 +2,8 @@
 
 > Reto de robótica autónoma inspirado en RoboCup Junior Rescue Line.
 
+📄 **[Descargar PDF oficial del reglamento](Operación%20Zona%20Cero.pdf)**
+
 ---
 
 ## Secuencia completa de la misión
